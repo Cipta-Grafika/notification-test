@@ -85,7 +85,6 @@ dist
 
 # Gatsby files
 .cache/
-public
 
 # Vuepress build output
 .vuepress/dist
@@ -125,8 +124,6 @@ dist/
 
 # Create React App
 /build
-/public/hot
-/public/storage
 /storage/*.key
 /vendor
 
