@@ -1,0 +1,17 @@
+{
+  "name": "notifikasi-backend",
+  "version": "1.0.0",
+  "description": "Backend untuk aplikasi notifikasi real-time dengan Hapi.js dan Socket.IO",
+  "main": "backend.js",
+  "scripts": {
+    "start": "node backend.js",
+    "dev": "nodemon backend.js"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2",
+    "socket.io": "^4.7.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
